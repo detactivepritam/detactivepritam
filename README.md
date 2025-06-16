@@ -1,8 +1,3 @@
-<!-- Animated header with SVG waves -->
-<p align="center">
-  <img src="https://github.com/detactivepritam/detactivepritam/blob/main/header.svg" width="100%" alt="Header animated svg"/>
-</p>
-
 <h1 align="center">Hi there 👋, I'm Pritam</h1>
 <h3 align="center">🚀 Developer | 💡 Problem Solver | 🎨 Creative Coder</h3>
 
