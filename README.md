@@ -27,8 +27,12 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,figma,git,docker,AI,UI/UX,githubactions,vscode,azure" />
 </p>
+
 ---
-<img align="right" height="128" src="https://clintbird.com/images/posts/2017/gifs-2.gif"  />
+
+<p align="center">
+  <img src="https://clintbird.com/images/posts/2017/gifs-2.gif" height="128" />
+</p>
 
 ## 📈 GitHub Stats
 
@@ -37,6 +41,7 @@
   <img src="https://streak-stats.demolab.com?user=detactivepritam&theme=tokyonight" height="165" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=detactivepritam&layout=compact&theme=tokyonight" height="165" alt="Top Languages"/>
 </p>
+
 ---
 
 ## 🌐 Connect with me
@@ -47,11 +52,4 @@
   <a href="https://www.linkedin.com/in/pritam-bhuin-35a72333"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:detactivepritam@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://x.com/PritamB81776?t=obebvDmKS0v7Gk6cAWsfXQ&s=09"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
-
----
-
-<!-- Optional: Fun animated SVG divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
