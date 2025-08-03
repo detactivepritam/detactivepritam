@@ -29,6 +29,7 @@
 </p>
 
 ---
+<img align="right" height="128" src="https://clintbird.com/images/posts/2017/gifs-2.gif"  />
 
 ## 📈 GitHub Stats
 
@@ -38,7 +39,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=detactivepritam&layout=compact&theme=tokyonight" height="165" alt="Top Languages"/>
 </p>
 ---
-<img align="right" height="128" src="https://clintbird.com/images/posts/2017/gifs-2.gif"  />
 
 ## 🌐 Connect with me
 
