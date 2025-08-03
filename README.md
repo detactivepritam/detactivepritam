@@ -27,7 +27,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,figma,git,docker,AI,UI/UX,githubactions,vscode,azure" />
 </p>
-
 ---
 <img align="right" height="128" src="https://clintbird.com/images/posts/2017/gifs-2.gif"  />
 
